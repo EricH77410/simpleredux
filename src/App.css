@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.result {
+  width: 30%;
+  border: 1px solid #ccc;
+  text-align: center;  
+}
+
+.result ul {
+  list-style: none;
+}
+
+.persons {
+  width: 50%;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.person {
+  margin: 10px;
+  box-shadow: 1px 2px 4px rgba(0,0,0, .20);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  width: 10rem;
+  margin: 2rem 0;
+  font-size: 1.5rem;
+  color: #555;
+  padding: 1rem;
+}
